@@ -1,5 +1,5 @@
 sentry-bearychat
-============
+================
 
 An extension for `Sentry <https://getsentry.com>`_ which posts notifications to a `Bearychat <https://bearychat.com>`_ channel.
 
@@ -7,7 +7,7 @@ An extension for `Sentry <https://getsentry.com>`_ which posts notifications to 
 
 Started with a fork of the Slack plugin:
 
-`https://github.com/getsentry/sentry-slack <https://github.com/getsentry/sentry-slack>`_
+`https://github.com/bearyinnovative/sentry-bearychat <https://github.com/bearyinnovative/sentry-bearychat>`_
 
 Install
 -------
